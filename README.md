@@ -74,9 +74,9 @@ print(df.head())
 | AOL.theatre        | premium   | —         | —             | 86             | 85     | 3      | —         |
 | seventeen.theatre  | available | $620      | —             | 84             | 62     | 9      | namecheap |
 | ally.theatre       | premium   | —         | —             | 68             | 85     | 4      | —         |
-| free.theatre       | available | $620      | —             | 88             | 59     | 4      | namecheap |
-| swift.theatre      | premium   | —         | —             | 68             | 85     | 5      | —         |
 | ace.theatre        | available | $620      | —             | 88             | 57     | 3      | namecheap |
+| swift.theatre      | premium   | —         | —             | 68             | 85     | 5      | —         |
+| free.theatre       | available | $620      | —             | 88             | 57     | 4      | namecheap |
 | chase.theatre      | premium   | —         | —             | 66             | 85     | 5      | —         |
 | data.theatre       | available | $620      | —             | 70             | 56     | 4      | namecheap |
 | Nokia.theatre      | premium   | —         | —             | 88             | 84     | 5      | —         |
