@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .theatre one-word domains from Uni
 
 **Public extract:** 9,936 rows · **Live catalog:** 9,936 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/theatre`  
 **Best for:** founders, investors, studios
 
@@ -82,7 +82,7 @@ print(df.head())
 | Nokia.theatre      | premium   | —         | —             | 88             | 84     | 5      | —         |
 | good.theatre       | available | $620      | —             | 82             | 55     | 4      | namecheap |
 | authentic.theatre  | premium   | —         | —             | 76             | 83     | 9      | —         |
-| alpha.theatre      | available | $620      | —             | 90             | 54     | 5      | namecheap |
+| zero.theatre       | available | $620      | —             | 112            | 53     | 4      | namecheap |
 | axle.theatre       | premium   | —         | —             | 74             | 83     | 4      | —         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .THEATRE One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .THEATRE One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
