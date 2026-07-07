@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .theatre one-word domains f
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,931 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,931 domains · **Median ask:** $599.37 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,931 domains · **Median ask:** $538.38 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/theatre`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/theatre`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .THEATRE one-word doma
 
 ### Files
 
-- `theatre.csv` — public CSV extract (1,000 rows)
-- `theatre.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `theatre.csv`, public CSV extract (1,000 rows)
+- `theatre.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| makers.theatre        | available | $509.99   | $529.99       | 62             | 67     | 6      | namesilo  |
-| RedSox.theatre        | available | $620      | —             | 72             | 60     | 7      | namecheap |
-| keepthechange.theatre | available | $620      | —             | 46             | 59     | 15     | namecheap |
-| cars.theatre          | available | $620      | —             | 66             | 47     | 4      | namecheap |
-| robots.theatre        | available | $509.99   | $529.99       | 62             | 47     | 6      | namesilo  |
-| Ryan.theatre          | available | $620      | —             | 60             | 44     | 4      | namecheap |
-| justin.theatre        | available | $620      | —             | 58             | 38     | 7      | namecheap |
-| neuroscience.theatre  | available | $620      | —             | 80             | 37     | 12     | namecheap |
-| stories.theatre       | available | $620      | —             | 58             | 36     | 7      | namecheap |
-| homes.theatre         | available | $620      | —             | 86             | 34     | 5      | namecheap |
-| trends.theatre        | available | $620      | —             | 60             | 32     | 6      | namecheap |
-| William.theatre       | available | $620      | —             | 74             | 31     | 7      | namecheap |
-| solutions.theatre     | available | $620      | —             | 56             | 31     | 9      | namecheap |
-| inspiration.theatre   | available | $620      | —             | 88             | 30     | 11     | namecheap |
-| spaces.theatre        | available | $620      | —             | 54             | 30     | 6      | namecheap |
-| SanDiego.theatre      | available | $509.99   | $529.99       | 74             | 29     | 9      | namesilo  |
-| quotes.theatre        | available | $620      | —             | 58             | 29     | 6      | namecheap |
-| commonground.theatre  | available | $620      | —             | 74             | 28     | 13     | namecheap |
-| brands.theatre        | available | $620      | —             | 62             | 28     | 6      | namecheap |
-| forms.theatre         | available | $620      | —             | 54             | 28     | 5      | namecheap |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| ADS.theatre | available | $509.99   | $529.99       | high           | medium | 3      | namesilo  |
+| apt.theatre | available | $620      | —             | high           | low    | 3      | namecheap |
+| arm.theatre | available | $509.99   | $529.99       | high           | medium | 3      | namesilo  |
+| art.theatre | available | $509.99   | $529.99       | high           | medium | 3      | namesilo  |
+| bus.theatre | available | $509.99   | $529.99       | high           | low    | 3      | namesilo  |
+| CNN.theatre | available | $509.99   | $529.99       | high           | low    | 3      | namesilo  |
+| cue.theatre | available | $620      | —             | medium         | low    | 3      | namecheap |
+| dad.theatre | available | $509.99   | $529.99       | high           | low    | 3      | namesilo  |
+| did.theatre | available | $509.99   | $529.99       | high           | low    | 3      | namesilo  |
+| die.theatre | available | $620      | —             | medium         | low    | 3      | namecheap |
+| DIY.theatre | available | $509.99   | $529.99       | high           | low    | 3      | namesilo  |
+| eve.theatre | available | $620      | —             | high           | medium | 3      | namecheap |
+| fix.theatre | available | $509.99   | $529.99       | medium         | low    | 3      | namesilo  |
+| flu.theatre | available | $509.99   | $529.99       | medium         | low    | 3      | namesilo  |
+| gym.theatre | available | $620      | —             | high           | low    | 3      | namecheap |
+| had.theatre | available | $509.99   | $529.99       | high           | low    | 3      | namesilo  |
+| hug.theatre | available | $509.99   | $529.99       | high           | low    | 3      | namesilo  |
+| ing.theatre | available | $509.99   | $529.99       | medium         | low    | 3      | namesilo  |
+| jay.theatre | available | $509.99   | $529.99       | medium         | low    | 3      | namesilo  |
+| joy.theatre | available | $509.99   | $529.99       | high           | medium | 3      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is exclusively made up of one-word .theatre domains. The names range from clean generics like hear.theatre, know.theatre, and mill.theatre to more expressive terms like burning.theatre and uppercase.theatre. For founders, the key question is whether the word is memorable, easy to say, and naturally tied to theatre, performance, venues, education, or production. For investors, the main check is pricing discipline: with a median ask near $599, compare each name against word quality, clarity, and likely end-user breadth. The strongest picks are the words that feel intuitive before the extension is even added.
+This list contains one word .theatre domain names such as coffeemilk.theatre, gingerbread.theatre, and presents.theatre. With 12,931 domains and a median ask of $538, pricing varies by word length, common usage, and how directly each name signals theatre, performance, or entertainment. When comparing these domains, weigh the asking price against renewal cost, brandability, and any trademark risk tied to well-known terms.
 
-- Favor words that read naturally with .theatre
-- Check if the word fits venue, production, or education use
-- Use the median ask near $599 as a pricing reference
-- Avoid obscure terms unless the branding case is clear
+- 12,931 one word .theatre domains, updated daily
+- Median ask across the set: $538
+- Compound and single words: coffeemilk, gingerbread, presents
+- Weigh brandability, renewal cost, and trademark risk before buying
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .THEATRE One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .THEATRE One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
