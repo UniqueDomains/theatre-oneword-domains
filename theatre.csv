@@ -1,13 +1,16 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 e9391a9f-708e-4896-95c5-f9e428febb74,parishes.theatre,available,509.99,529.99,medium,low,8,namesilo,,,18/09/2026 08:08
 0fb97b40-80c3-4e0e-abcc-50100b7d3268,positivist.theatre,available,509.99,529.99,medium,low,10,namesilo,,,09/09/2026 00:12
+65d17bf9-9b23-47b5-9bc5-b6ec2300cb3a,sunbury.theatre,available,509.99,529.99,high,low,7,namesilo,,,01/10/2026 11:43
 168cb4c0-e7ad-4c56-8245-46e8aaaeff40,dirigible.theatre,available,509.99,529.99,medium,low,9,namesilo,,,14/08/2026 09:02
 b08eead9-d8b9-45e2-b744-5ae068cf1256,ppp.theatre,available,500.2,500.2,high,low,3,cloudflare,,,28/09/2026 06:33
 978486b7-9ac4-4050-8e9d-6f0d91ba9916,tycoons.theatre,available,509.99,529.99,medium,low,7,namesilo,,,19/09/2026 22:53
 36a147d6-c45e-4e38-9f3e-bb7e7eca34ff,succeeding.theatre,available,500.2,500.2,high,low,10,cloudflare,,,29/09/2026 21:16
+27957a6d-8653-4a93-8300-fba582224e7d,dla.theatre,available,509.99,529.99,high,low,3,namesilo,,,01/10/2026 11:00
 68a3a063-5750-4d1a-9efe-c004fb3edec9,text.theatre,available,899.99,999.99,high,medium,4,godaddy,,,28/09/2026 02:24
 7f128111-4b8d-421e-8ae6-0b797a84bffe,eastern.theatre,available,509.99,529.99,high,low,7,namesilo,,,24/09/2026 13:10
 cd43e4f0-fe1a-43bc-a1b1-820f0fb783b5,agapanthus.theatre,available,509.99,529.99,medium,low,10,namesilo,,,17/09/2026 16:11
+9f37a4d6-e95e-4d80-bb4b-eb7891befaea,reinstate.theatre,available,500.2,500.2,high,low,9,cloudflare,,,01/10/2026 22:12
 76c0cd9d-8beb-4d0f-9ce3-e1a05a87a5c6,css.theatre,available,509.99,529.99,high,medium,3,namesilo,,,28/09/2026 11:47
 546f73e6-d10e-481a-a1b5-d4a8a9154c62,keating.theatre,available,509.99,529.99,high,low,7,namesilo,,,27/09/2026 08:01
 cacea053-bc9f-4e57-9d1b-44ce711a1cd7,babar.theatre,available,509.99,529.99,high,low,5,namesilo,,,21/09/2026 12:14
@@ -24,7 +27,7 @@ ad5510b8-d194-4062-94d7-7a592220ca5f,pvc.theatre,available,509.99,529.99,high,lo
 7b949ecc-a61d-4a6f-9d70-8e0091e1c083,birth.theatre,available,515.45,515.45,high,low,5,porkbun,,,29/09/2026 02:50
 61cac0c1-e665-4b87-8a84-707acc85e0a5,withered.theatre,available,538.98,620,medium,low,8,namecheap,,,14/08/2026 19:11
 6b01b09d-719e-4c27-a8ac-c81e7c20e729,doorman.theatre,available,465.95,500.18,high,low,7,spaceship,,,01/10/2026 01:48
-9d655ce0-ca61-48b1-83b6-bc0435889952,technology.theatre,available,509.99,529.99,high,low,10,namesilo,,,30/09/2026 12:27
+9d655ce0-ca61-48b1-83b6-bc0435889952,technology.theatre,available,500.2,500.2,high,low,10,cloudflare,,,01/10/2026 14:19
 a62a1791-9839-4005-874f-1b96663bc67c,allotrope.theatre,available,538.98,620,medium,low,9,namecheap,,,18/09/2026 12:06
 4310d8ba-e70f-4337-b3a7-c73daef077b3,johnstown.theatre,available,509.99,529.99,medium,low,9,namesilo,,,28/09/2026 22:27
 37468de8-7faf-480b-a7b7-7b5f27acdf02,manu.theatre,available,535.22,535.22,high,low,4,dynadot,,,28/09/2026 11:11
@@ -34,6 +37,7 @@ d66bda10-935e-4252-896e-c081659173f6,involvement.theatre,available,509.99,529.99
 3d53790c-1c4d-4d9f-8345-5a40f944af08,methodology.theatre,available,515.45,515.45,high,low,11,porkbun,,,30/09/2026 06:02
 371b64bf-bcbe-4753-b66a-0008eaa5f140,irregular.theatre,available,538.98,620,high,low,9,namecheap,,,25/09/2026 11:26
 3d5ba2c8-7406-4a11-9ae7-658658b8dd68,solferino.theatre,available,750,949.99,medium,low,9,name.com,,,22/09/2026 15:59
+681e8a3f-b06e-4df1-9432-cd726d29d54e,freda.theatre,available,509.99,529.99,high,low,5,namesilo,,,01/10/2026 08:48
 74b454e4-f3c6-4da8-82ed-c9866e717461,enlarge.theatre,available,509.99,529.99,high,low,7,namesilo,,,15/08/2026 23:49
 637e10be-e8cf-4a46-be83-e5adc88cfa46,sedans.theatre,available,509.99,529.99,medium,low,6,namesilo,,,19/09/2026 22:27
 8138c1ad-fb06-41ba-8782-323104b2f20c,harassed.theatre,available,509.99,529.99,medium,low,8,namesilo,,,21/08/2026 00:06
@@ -66,11 +70,14 @@ afdbff22-0347-42ea-a831-edb390816b19,ricardo.theatre,available,538.98,620,high,l
 8e91d0e5-f399-42ad-8423-9c637cc94aa2,prismatic.theatre,available,509.99,529.99,high,low,9,namesilo,,,09/09/2026 02:09
 5632b09d-b0d6-4621-91eb-2a94981131c1,asgard.theatre,available,509.99,529.99,high,low,6,namesilo,,,20/09/2026 13:34
 71cf3252-30ee-419a-9e87-924a92bcd59f,shot.theatre,available,509.99,529.99,high,low,4,namesilo,,,23/09/2026 13:53
+beed03d9-2f0d-4605-b963-62651cfbf8e3,grammy.theatre,available,500.2,500.2,high,low,6,cloudflare,,,01/10/2026 23:31
 d0b57080-5f32-484f-abe9-0ed8daa83579,total.theatre,available,538.98,620,high,medium,5,namecheap,,,21/09/2026 22:55
 5602ddd0-76cd-462d-ac42-9bd6f2b25203,slide.theatre,available,509.99,529.99,high,low,5,namesilo,,,30/09/2026 02:07
 f70a16e3-5190-4cbc-942d-434eb1c15280,ammonia.theatre,available,509.99,529.99,high,low,7,namesilo,,,18/09/2026 22:08
-8a04f9a4-0a16-4710-acff-a0524ec6d0d0,nonstop.theatre,available,509.99,529.99,high,low,7,namesilo,,,22/09/2026 08:07
+8a04f9a4-0a16-4710-acff-a0524ec6d0d0,nonstop.theatre,available,500.2,500.2,medium,low,7,cloudflare,,,01/10/2026 13:31
+ed823777-2ff4-4c76-a8ed-baf384c43896,constrained.theatre,available,509.99,529.99,medium,low,11,namesilo,,,01/10/2026 22:42
 aa970cd3-9387-4a05-96ae-05c930ec7a0a,shipment.theatre,available,509.99,529.99,high,low,8,namesilo,,,24/09/2026 12:59
+c9b7f535-ff6f-44de-9b1f-d7e16e30fa5c,kerosene.theatre,available,500.2,500.2,high,low,8,cloudflare,,,01/10/2026 18:59
 8a6a09fd-aa26-4320-b699-528aa214e944,locker.theatre,available,509.99,529.99,high,low,6,namesilo,,,25/09/2026 06:06
 3ca226a8-3ee7-4253-b79a-6d86d532ae19,hellenic.theatre,available,509.99,529.99,high,low,8,namesilo,,,20/08/2026 17:54
 12f03646-d7af-4e82-9239-febfe0175411,formulary.theatre,available,509.99,529.99,medium,low,9,namesilo,,,18/08/2026 12:20
@@ -84,12 +91,14 @@ a7f3b98b-39f9-439a-b7bd-00055e268aad,brandeis.theatre,available,538.98,620,mediu
 45514533-769d-42a2-a04d-a70a1156bcde,romanians.theatre,available,535.22,535.22,medium,low,9,dynadot,,,30/09/2026 00:08
 47c0e18f-7aa2-4ae6-a5ae-b416f2a10e9a,scotchtape.theatre,available,509.99,529.99,high,low,11,namesilo,,,16/09/2026 11:38
 3177f488-81fa-4751-a683-4f6138dc9c31,theistic.theatre,available,509.99,529.99,medium,low,8,namesilo,,,11/09/2026 12:41
+b730efc7-d082-41da-a078-3893e01609d0,boylston.theatre,available,465.95,500.18,medium,low,8,spaceship,,,01/10/2026 12:42
 929fa4e0-5ff8-4e52-a742-42ea9000d6c8,rebirth.theatre,available,465.95,500.18,high,low,7,spaceship,,,30/09/2026 02:16
 12142aaf-501e-4210-8821-bf5491ae127d,forwarding.theatre,available,465.95,500.18,high,low,10,spaceship,,,30/09/2026 09:44
 283be607-00aa-4bac-afe4-3898e0dacd06,scrambled.theatre,available,509.99,529.99,high,low,9,namesilo,,,09/09/2026 23:46
 eb3a5b56-60be-4344-aaa9-52997cec299d,insult.theatre,available,509.99,529.99,high,low,6,namesilo,,,17/09/2026 14:53
 d925cb99-ad39-4f32-86c6-0dd2cb3860cd,apples.theatre,available,509.99,529.99,high,low,6,namesilo,,,18/09/2026 14:01
 19c13cd3-a333-48ea-a238-0ff9c49e627c,negroid.theatre,available,509.99,529.99,medium,low,7,namesilo,,,03/09/2026 15:14
+7fdc211a-e7b7-41b4-a54d-aeeac4015812,castilla.theatre,available,465.95,500.18,high,low,8,spaceship,,,01/10/2026 18:55
 539c3605-2bf0-440b-bf53-ea4a8d4d8a37,geek.theatre,available,509.99,529.99,high,low,4,namesilo,,,24/09/2026 13:18
 b40072d6-0a84-4d5f-8836-be0dc123cf32,keyset.theatre,available,538.98,620,medium,low,7,namecheap,,,21/09/2026 00:17
 6cd0dc11-4ee6-4f48-98e5-5965e6c15bfd,boards.theatre,available,465.95,500.18,high,low,6,spaceship,,,29/09/2026 03:05
@@ -101,8 +110,10 @@ a9935387-71ea-4bed-b1bf-5603775920c0,zones.theatre,available,465.95,500.18,mediu
 c18da24c-3008-4af1-837f-52e110f71120,warty.theatre,available,509.99,529.99,medium,low,5,namesilo,,,13/09/2026 04:24
 e200c735-6a88-4a14-b1a4-311b89928586,walden.theatre,available,509.99,529.99,high,low,6,namesilo,,,27/09/2026 08:12
 a0c320ee-4e56-4d4c-9b7e-c845225177fb,bunk.theatre,available,538.98,620,medium,low,4,namecheap,,,03/09/2026 20:32
+f72cec18-9279-4030-ba04-afa25270254f,camelot.theatre,available,509.99,529.99,high,low,7,namesilo,,,02/10/2026 04:15
 7692b5e4-a005-41cf-9c73-c162bed87691,nimble.theatre,available,509.99,529.99,high,low,6,namesilo,,,21/09/2026 23:05
 390eaef2-add4-4a85-9ba3-c8e105e2e181,cyrillic.theatre,available,750,949.99,medium,low,8,name.com,,,13/08/2026 14:33
+858e53ce-0bd6-43fc-b527-b58bc105caad,circulated.theatre,available,538.98,620,medium,low,10,namecheap,,,02/10/2026 03:37
 664c346c-d89e-4cc5-8436-bc49cfaa6c35,murmur.theatre,available,509.99,529.99,high,low,6,namesilo,,,03/09/2026 11:16
 44606211-09c2-40c6-992a-76c5ce6bac0b,bearskin.theatre,available,538.98,620,high,low,8,namecheap,,,22/09/2026 21:25
 91eb1243-9e1e-4078-a912-05082f821eb1,ridiculous.theatre,available,509.99,529.99,high,low,10,namesilo,,,24/09/2026 06:27
@@ -127,7 +138,7 @@ e8960b86-654f-4c5c-98a9-b8ecdae1b534,suitcase.theatre,available,509.99,529.99,hi
 3667b88b-0104-413e-9077-9161d3e8d473,raids.theatre,available,509.99,529.99,medium,low,5,namesilo,,,30/09/2026 07:30
 8bba0242-79b1-4f32-97ca-fa5f36bd83e1,tak.theatre,available,500.2,500.2,high,low,3,cloudflare,,,29/09/2026 09:19
 d772e42d-1f3e-4cd8-9d27-277ae20b1b18,bradley.theatre,available,509.99,529.99,high,low,7,namesilo,,,25/09/2026 02:09
-6ae093f2-d390-4186-a51e-a8e76e3771a1,focused.theatre,available,465.95,500.18,high,low,7,spaceship,,,28/09/2026 05:57
+6ae093f2-d390-4186-a51e-a8e76e3771a1,focused.theatre,available,465.95,500.18,high,low,7,spaceship,,,01/10/2026 15:45
 644430c1-b53a-40bf-86ce-025fac1e0d07,oxalis.theatre,available,509.99,529.99,medium,low,6,namesilo,,,10/09/2026 14:35
 24e482c2-a2ba-44c4-be30-1aee73f68918,tosh.theatre,available,509.99,529.99,medium,low,4,namesilo,,,21/09/2026 23:54
 9fbe4865-6014-4490-852f-32b0245d355e,rootbound.theatre,available,509.99,529.99,medium,low,9,namesilo,,,09/09/2026 00:46
@@ -143,9 +154,12 @@ bfa9b914-59f1-43b3-a4bc-1d275261f1b8,sister.theatre,available,509.99,529.99,high
 21fdef49-c411-4fc1-884b-8fe077043395,appalachia.theatre,available,509.99,529.99,medium,low,10,namesilo,,,19/09/2026 19:44
 233774f7-2487-4256-bf99-d6ba4026c693,catalan.theatre,available,509.99,529.99,high,low,7,namesilo,,,11/08/2026 20:50
 be53b6a8-8982-47ab-a65f-10d74eed1148,geoffrey.theatre,available,538.98,620,medium,low,8,namecheap,,,25/09/2026 13:35
+20c7c022-f77a-4ae5-8d07-a4b76e92a1ed,labyrinth.theatre,available,515.45,515.45,high,low,9,porkbun,,,01/10/2026 20:02
 1adc570c-1364-4689-b16c-d5e927af2907,alters.theatre,available,509.99,529.99,medium,low,6,namesilo,,,20/09/2026 13:23
+54ee4830-200f-4091-ab92-d30717c844e3,globalization.theatre,available,465.95,500.18,medium,low,13,spaceship,,,01/10/2026 13:13
 7c47a6fb-084a-4df4-a729-028a46a4f164,hydroxy.theatre,available,509.99,529.99,medium,low,7,namesilo,,,21/08/2026 16:25
 e4ed1b2e-fb1b-4d75-a662-34dfcc3dad3e,recordings.theatre,available,465.95,500.18,medium,low,10,spaceship,,,29/09/2026 16:40
+aa65d675-b23b-4627-b71f-93708afaf37c,reassure.theatre,available,500.2,500.2,high,low,8,cloudflare,,,01/10/2026 22:12
 fba0fd65-3f9f-46fe-9bcb-97cf6083ff38,maximilian.theatre,available,538.98,620,high,low,10,namecheap,,,27/09/2026 07:16
 243e5e63-f6c2-4ff2-ae4e-efc71a508c1d,pines.theatre,available,535.22,535.22,medium,low,5,dynadot,,,30/09/2026 07:04
 38e8e040-9d12-4630-9391-22569b0731ed,ivo.theatre,available,535.22,535.22,high,low,3,dynadot,,,30/09/2026 04:54
@@ -189,8 +203,9 @@ b88c3a94-1fe6-49b9-a433-0cccacaca6e5,imagination.theatre,available,620,,high,low
 d14846f5-d72a-40a2-8108-2951d6579dc6,wording.theatre,available,509.99,529.99,high,low,7,namesilo,,,29/09/2026 08:51
 d97690ce-ca43-48ce-b042-0b31c2553982,preacher.theatre,available,500.2,500.2,high,low,8,cloudflare,,,27/09/2026 15:23
 98fae970-f6df-4b95-ba73-4517b66b2215,scheme.theatre,available,509.99,529.99,high,low,6,namesilo,,,30/09/2026 10:40
-e706ed76-7951-4484-b73c-d54b51c7455c,mass.theatre,available,509.99,529.99,high,low,4,namesilo,,,28/09/2026 22:52
+e706ed76-7951-4484-b73c-d54b51c7455c,mass.theatre,available,465.95,500.18,high,low,4,spaceship,,,01/10/2026 08:49
 c9ea79a0-8a44-427d-8382-d009a52e3409,guarding.theatre,available,515.45,515.45,medium,low,8,porkbun,,,28/09/2026 12:47
+8710dc67-9738-48b5-836f-778a970612d2,bowels.theatre,available,500.2,500.2,medium,low,6,cloudflare,,,01/10/2026 18:47
 f6546c02-617b-4162-b6cf-fd36bae9faf6,introductory.theatre,available,509.99,529.99,high,low,12,namesilo,,,
 455186de-6042-4a49-9851-2d279d611e7a,drain.theatre,available,509.99,529.99,high,low,5,namesilo,,,24/09/2026 23:49
 1a73dbb4-8ef9-4ea7-898e-0ab049c9b531,mood.theatre,available,500.2,500.2,high,low,4,cloudflare,,,29/09/2026 23:23
@@ -221,6 +236,8 @@ bc019c4c-aa5f-4f05-a7ba-91ddf1709190,concluded.theatre,available,509.99,529.99,h
 4ad69b94-baa5-459e-9d46-76a3967387e6,apostle.theatre,available,538.98,620,high,low,7,namecheap,,,19/09/2026 19:18
 68e17b07-129f-4dfd-a8b0-4d55b542f151,acyclic.theatre,available,538.98,620,high,low,7,namecheap,,,
 31823634-9ed5-422e-8acd-6b07aadae1f5,loop.theatre,available,465.95,500.18,high,high,4,spaceship,,,28/09/2026 07:30
+ec13a22c-f4d4-435f-8c85-b616d1b04464,caregiving.theatre,available,535.22,535.22,high,low,10,dynadot,,,01/10/2026 13:54
+3eabd97a-a9be-4bf4-aaf3-26949214beff,queenstown.theatre,available,500.2,500.2,medium,low,10,cloudflare,,,02/10/2026 00:46
 a2fbe6cd-be6c-46c9-90b1-cd2b067f8d64,rayleigh.theatre,available,535.22,535.22,medium,low,8,dynadot,,,29/09/2026 13:13
 27377a9e-17b5-4287-92ea-58086a4931a7,cleric.theatre,available,509.99,529.99,high,low,6,namesilo,,,14/08/2026 23:27
 c7af585b-8058-45fb-afff-fc9ddfecbe45,motown.theatre,available,538.98,620,high,low,6,namecheap,,,29/09/2026 06:38
@@ -229,7 +246,7 @@ c7af585b-8058-45fb-afff-fc9ddfecbe45,motown.theatre,available,538.98,620,high,lo
 c5709911-eb09-496a-bd58-997322564537,makeover.theatre,available,509.99,529.99,high,low,9,namesilo,,,
 c8a69f36-7eb4-4772-8ecf-1a627e138ae6,fleshy.theatre,available,509.99,529.99,medium,low,6,namesilo,,,18/08/2026 08:02
 8f078594-57d4-4c51-bc51-aefba47c21d9,variant.theatre,available,509.99,529.99,high,low,7,namesilo,,,13/09/2026 01:15
-a467a79b-a910-43a7-81d5-2726e6eac96a,industrialize.theatre,available,509.99,529.99,medium,low,13,namesilo,,,
+a467a79b-a910-43a7-81d5-2726e6eac96a,industrialize.theatre,available,465.95,500.18,medium,low,13,spaceship,,,01/10/2026 08:51
 989892cd-efa1-4c98-9738-9e45ba302148,peppery.theatre,available,509.99,529.99,medium,low,7,namesilo,,,08/09/2026 15:37
 b28bead3-f8b8-4445-a7b4-2c7fad3dbee0,pounds.theatre,available,509.99,529.99,medium,low,6,namesilo,,,18/09/2026 01:51
 5131ed98-a86b-4881-86b8-21231c3b23c5,bituminous.theatre,available,509.99,529.99,high,low,10,namesilo,,,10/08/2026 08:53
@@ -277,6 +294,7 @@ a83baeeb-3847-4ac4-a30a-f87abde64220,pointing.theatre,available,509.99,529.99,hi
 ea3f4b57-e7d9-4553-abd2-2c29f8aa6a1f,perth.theatre,available,509.99,529.99,high,low,5,namesilo,,,26/09/2026 00:00
 88207639-dde8-49ed-ad30-832b0d98f9f1,pommel.theatre,available,509.99,529.99,medium,low,6,namesilo,,,23/09/2026 13:53
 2000815b-bf68-4417-b81f-d8b262f41bb3,apteryx.theatre,available,509.99,529.99,medium,low,7,namesilo,,,19/09/2026 22:37
+5c42c4a4-2028-4f6c-9223-c579c6e50265,gangsters.theatre,available,465.95,500.18,low,low,9,spaceship,,,01/10/2026 18:01
 777cec60-fb8d-453d-8ad4-ae2cdac60e18,lamb.theatre,available,509.99,529.99,high,low,4,namesilo,,,27/09/2026 03:31
 c654f2c1-722b-41b5-86cb-f80516fdbb95,continuity.theatre,available,509.99,529.99,high,low,10,namesilo,,,24/09/2026 17:42
 0e43b300-f618-406d-ac58-84177b6efe30,phlegmatic.theatre,available,538.98,620,medium,low,10,namecheap,,,08/09/2026 18:53
@@ -290,15 +308,18 @@ d553c893-33ad-4afe-9e74-116a7a0a5399,dealings.theatre,available,538.98,620,high,
 e8c9ed26-e0b0-402f-9925-919a33d7f840,mockingly.theatre,available,509.99,529.99,medium,low,9,namesilo,,,14/09/2026 12:02
 a7b56161-b5a7-4f8a-a3e1-a4e4484e8e21,began.theatre,available,509.99,529.99,medium,low,5,namesilo,,,
 02110201-8384-4647-952d-0ca015e333ee,wines.theatre,available,509.99,529.99,high,low,5,namesilo,,,18/09/2026 10:23
-99f8dc2e-6593-4d73-8f87-2eb2efe213d5,buzzed.theatre,available,509.99,529.99,high,low,6,namesilo,,,
+99f8dc2e-6593-4d73-8f87-2eb2efe213d5,buzzed.theatre,available,509.99,529.99,high,low,6,namesilo,,,01/10/2026 23:21
 6f5cf5b0-0091-4a32-87af-777082001fdb,overpriced.theatre,available,538.98,620,medium,low,10,namecheap,,,04/09/2026 21:26
 471e652a-c37c-45e2-8d85-375b38b384bb,yarrow.theatre,available,509.99,529.99,medium,low,6,namesilo,,,17/09/2026 00:36
 00cfe226-a676-4091-a0d0-13ce00114ef9,sensorial.theatre,available,509.99,529.99,medium,low,9,namesilo,,,10/09/2026 03:46
 350a671b-73af-4c79-950f-8ba174899e17,theoretic.theatre,available,509.99,529.99,medium,low,9,namesilo,,,11/09/2026 12:54
 b91ebb28-533e-4570-80f1-757d48401f3b,costing.theatre,available,538.98,620,high,low,7,namecheap,,,29/09/2026 18:29
 d790a318-fb39-4768-ae8a-d3d7b2203ad8,giles.theatre,available,509.99,529.99,medium,low,5,namesilo,,,30/09/2026 04:47
+f3db8af2-03a1-4561-b886-f38083abf250,stead.theatre,available,465.95,500.18,medium,low,5,spaceship,,,01/10/2026 20:20
 ddb168c8-bf16-4a24-8181-e5681180c5ca,info.theatre,available,465.95,500.18,high,medium,4,spaceship,,,30/09/2026 00:06
 23ac1057-ad1c-43e1-aeeb-0fa4896af646,adducent.theatre,available,509.99,529.99,medium,low,8,namesilo,,,
+133b35f3-6991-4a7d-a604-662bae0230a6,muhlenberg.theatre,available,500.2,500.2,medium,low,10,cloudflare,,,02/10/2026 01:03
+f1617c37-c707-45cf-8eca-d7b0c2d73148,florio.theatre,available,465.95,500.18,high,low,6,spaceship,,,01/10/2026 19:36
 9e343ced-ea30-489d-96e2-80da2a29b059,diaz.theatre,available,509.99,529.99,high,low,4,namesilo,,,22/09/2026 09:18
 f54bf742-f642-4303-b84a-2fe68b24a1b6,provincetown.theatre,available,509.99,529.99,medium,low,12,namesilo,,,30/09/2026 22:22
 0c9356e4-77c7-489a-b887-b1d1a30a5a16,peevish.theatre,available,509.99,529.99,medium,low,7,namesilo,,,22/08/2026 10:21
@@ -316,6 +337,7 @@ d9ff5e62-e73c-4aa0-9501-3adc08efebce,karl.theatre,available,538.98,620,high,low,
 757bbbae-754e-42b7-a40f-606c41e6c62e,shavian.theatre,available,509.99,529.99,high,medium,7,namesilo,,,10/09/2026 06:09
 776108a4-da72-4fd3-be0b-985c3a2ee7f7,shores.theatre,available,509.99,529.99,medium,low,6,namesilo,,,29/09/2026 11:01
 eda60965-f9d5-4db7-88c8-14f9e73f91ee,curtis.theatre,available,509.99,529.99,high,low,6,namesilo,,,25/09/2026 04:28
+9e8a5629-30a1-4c52-8a98-782bfcf05192,pointers.theatre,available,509.99,529.99,medium,low,8,namesilo,,,02/10/2026 02:15
 fe8c4a76-9007-4e4a-ad5d-7daeb899b768,dita.theatre,available,509.99,529.99,medium,low,4,namesilo,,,18/09/2026 14:25
 5eccf4ca-f502-4195-abfa-941667c1d6a5,flower.theatre,available,538.98,620,high,low,6,namecheap,,,24/09/2026 20:16
 4ecf5f30-5fda-48fe-9349-f2dd085346ea,outfit.theatre,available,509.99,529.99,high,low,6,namesilo,,,27/09/2026 13:44
@@ -365,7 +387,7 @@ e8f156a8-77c9-4fd2-a2f4-859e59d60e6f,rick.theatre,available,509.99,529.99,high,l
 ea593a9b-e387-49fc-aeb5-5d75b2675e18,ferment.theatre,available,509.99,529.99,high,medium,7,namesilo,,,10/09/2026 14:45
 dd5bbf4e-d2ff-450e-8210-7a0bc333da41,allusion.theatre,available,509.99,529.99,high,low,8,namesilo,,,18/09/2026 12:15
 2dea8de7-0211-4fab-a5ce-870a1fa51023,wall.theatre,available,465.95,500.18,high,low,4,spaceship,,,28/09/2026 08:42
-27e722b5-23f2-43fc-bb6a-29b7224c7a21,maidens.theatre,available,509.99,529.99,high,low,7,namesilo,,,
+27e722b5-23f2-43fc-bb6a-29b7224c7a21,maidens.theatre,available,509.99,529.99,high,low,7,namesilo,,,02/10/2026 03:57
 82980d89-9c3d-4a00-837d-e96b874b5df5,maxwell.theatre,available,465.95,500.18,high,low,7,spaceship,,,28/09/2026 06:04
 74518a79-b4e5-4196-8bb3-93fa38aff11e,editors.theatre,available,500.2,500.2,medium,low,7,cloudflare,,,29/09/2026 17:03
 65370309-c267-45b1-bdaf-ed6cef4a0122,lugosi.theatre,available,509.99,529.99,high,low,6,namesilo,,,23/09/2026 04:23
@@ -387,7 +409,7 @@ abddd296-797e-41a5-8acc-7ff99acf47eb,parochial.theatre,available,509.99,529.99,m
 c7a2c6b3-f061-4624-8fd3-79e2b875116a,filings.theatre,available,509.99,529.99,low,low,7,namesilo,,,
 6dcc3588-5705-4907-aa83-6388375cc6cf,wingless.theatre,available,509.99,529.99,medium,low,8,namesilo,,,13/09/2026 12:31
 4d64a7f5-385d-4b6c-8db3-8b8776ae4446,aesculus.theatre,available,509.99,529.99,medium,low,8,namesilo,,,17/09/2026 13:22
-5e1c469a-2299-4a02-adf3-7c3163ecdb2b,undergraduate.theatre,available,509.99,529.99,medium,low,13,namesilo,,,
+5e1c469a-2299-4a02-adf3-7c3163ecdb2b,undergraduate.theatre,available,509.99,529.99,medium,low,13,namesilo,,,01/10/2026 06:13
 3d7c6704-cc81-4823-831a-4581950ce580,frying.theatre,available,535.22,535.22,high,low,6,dynadot,,,30/09/2026 09:52
 0aa4b9bd-1a0d-4ac6-9388-33791a9ec9e4,ageless.theatre,available,509.99,529.99,high,low,7,namesilo,,,
 5278faf3-13ba-434a-88f4-0c0cca9716ad,pitted.theatre,available,509.99,529.99,medium,low,6,namesilo,,,
@@ -433,11 +455,13 @@ d28bd088-b396-4f7f-a37c-59ad0ff2dfcf,fatty.theatre,available,509.99,529.99,high,
 3983ffa3-fdfc-4ce6-ad2b-29460b94e294,nascent.theatre,available,509.99,529.99,medium,low,7,namesilo,,,03/09/2026 13:35
 3b9359fc-7f40-46c2-bf0b-836161ab9a71,programmes.theatre,available,509.99,529.99,medium,low,10,namesilo,,,20/09/2026 10:20
 c7c88b69-c4ee-4e5a-b71b-4b1cf3880318,blackcap.theatre,available,509.99,529.99,medium,low,8,namesilo,,,23/09/2026 23:42
+6997db0e-66ad-4649-881f-259fca3272d8,avenues.theatre,available,465.95,500.18,medium,low,7,spaceship,,,01/10/2026 17:25
 4eb69010-5870-4bd1-af3f-8654d3870551,estival.theatre,available,509.99,529.99,medium,low,7,namesilo,,,
 c28ce512-08f9-4052-94e6-2916ed69580e,producer.theatre,available,509.99,529.99,high,low,8,namesilo,,,25/09/2026 10:38
 a7c9dd0d-3e06-432f-b21e-f54f6bfd4331,feeding.theatre,available,509.99,529.99,high,low,7,namesilo,,,25/09/2026 22:30
 e1a0f174-dcc5-4e84-a0b6-0f343540cf36,purposive.theatre,available,509.99,529.99,medium,low,9,namesilo,,,20/08/2026 15:51
 f4c405b6-410c-47bd-9457-6dc7c2a154cb,firework.theatre,available,509.99,529.99,high,low,8,namesilo,,,09/09/2026 07:10
+de0cc521-2923-4c39-a847-3a5e046a63b4,moma.theatre,available,509.99,529.99,high,low,4,namesilo,,,01/10/2026 23:50
 ff8fdc0b-6b87-42bb-bb08-d07b51a0d598,altimeter.theatre,available,538.98,620,medium,low,9,namecheap,,,18/09/2026 14:58
 658c31ca-b4aa-42ec-9145-8aa1f9df4d46,ardor.theatre,available,509.99,529.99,high,low,5,namesilo,,,20/09/2026 03:15
 7baf8fa9-41e8-4ca5-8c2c-ef220cb6430c,considered.theatre,available,538.98,620,high,low,10,namecheap,,,23/09/2026 20:51
@@ -473,12 +497,14 @@ d7d2c750-801c-40f4-877d-c20eb021407d,colo.theatre,available,465.95,500.18,medium
 84b6b532-b1ca-462d-a5d9-31a6840f7e69,brutality.theatre,available,509.99,529.99,medium,low,9,namesilo,,,22/09/2026 04:26
 e43e85c2-9055-440a-bf4d-f57107a2c1fb,dada.theatre,available,509.99,529.99,high,high,4,namesilo,,,08/09/2026 23:40
 e4e4de00-db02-4e89-8621-c1ce1f9fe751,contempt.theatre,available,509.99,529.99,medium,low,8,namesilo,,,29/09/2026 11:21
+0edd47b5-5220-4785-aed2-9f60fb9beb80,gustafson.theatre,available,465.95,500.18,medium,low,9,spaceship,,,02/10/2026 00:54
 d9445541-886f-49fa-b890-6a158dadd7a9,filar.theatre,available,509.99,529.99,medium,low,5,namesilo,,,18/08/2026 04:10
 bbe9a88b-5441-44d6-b2b1-c579a71da30c,drew.theatre,available,538.98,620,high,low,4,namecheap,,,25/09/2026 00:05
 2e595dea-b801-4b76-8329-824961ccf33e,leader.theatre,available,465.95,500.18,high,low,6,spaceship,,,30/09/2026 02:28
 11429998-4b5a-4e43-8b1e-a0f6a4d28a74,york.theatre,available,509.99,529.99,high,low,4,namesilo,,,29/09/2026 23:04
 fcee273b-2abd-4490-86da-f7c275630c55,charcoal.theatre,available,509.99,529.99,high,low,8,namesilo,,,12/08/2026 02:24
 0b01af19-8145-4143-bcb8-5d4934f23fcc,ionized.theatre,available,509.99,529.99,high,low,7,namesilo,,,22/08/2026 09:31
+59bf65eb-7d61-460a-8c08-cf2f505aafb9,antoinette.theatre,available,509.99,529.99,high,low,10,namesilo,,,01/10/2026 08:30
 d8ef4215-9024-4afa-bb5a-3f51ad07ca08,lesbians.theatre,available,500.2,500.2,medium,low,8,cloudflare,,,29/09/2026 17:48
 648e48a5-67c1-4423-b9cc-723b6cf2228c,pandora.theatre,available,465.95,500.18,high,medium,7,spaceship,,,30/09/2026 06:23
 01f1e345-725e-47e6-b3f8-7a962e9cb9fe,teary.theatre,available,509.99,529.99,high,low,5,namesilo,,,11/09/2026 09:50
@@ -497,20 +523,22 @@ e5ecc8ab-67c3-4039-8174-37651bf33878,borrowed.theatre,available,509.99,529.99,me
 07814b05-ab47-41fe-870e-1a722dfbf279,clarion.theatre,available,509.99,529.99,high,low,7,namesilo,,,12/08/2026 09:38
 8fb838a4-fe4d-4c3d-96fb-7005fcac9616,billions.theatre,available,509.99,529.99,medium,low,8,namesilo,,,29/09/2026 06:04
 9aa9e1a5-ac25-4828-85ab-b38567007c75,adroitly.theatre,available,509.99,529.99,medium,low,8,namesilo,,,13/09/2026 17:25
-3b8e2b54-fc04-4de4-9033-ab74ea1e5eb4,code.theatre,available,509.99,529.99,high,medium,4,namesilo,,,28/09/2026 06:53
+3b8e2b54-fc04-4de4-9033-ab74ea1e5eb4,code.theatre,available,509.99,529.99,high,medium,4,namesilo,,,01/10/2026 15:24
+35744a45-8e29-4dbe-b20f-c24d95bcd7be,nbl.theatre,available,465.95,500.18,high,low,3,spaceship,,,01/10/2026 23:39
 b9576c16-c136-4ea8-9728-51996ebb2927,loftily.theatre,available,509.99,529.99,medium,low,7,namesilo,,,15/09/2026 12:38
 afaef33b-b0e3-49a0-a0f4-5b8d4bf7f887,redo.theatre,available,465.95,500.18,high,low,4,spaceship,,,30/09/2026 09:45
 4170e580-4498-4e73-8001-2aee99601a4b,squeak.theatre,available,538.98,620,high,low,6,namecheap,,,24/09/2026 15:54
 bf070a01-2156-4e01-9ec4-05b3cd31dc01,focus.theatre,available,509.99,529.99,high,medium,5,namesilo,,,19/09/2026 06:53
 16dac454-a833-4d2a-b66c-f9653017208d,ingalls.theatre,available,509.99,529.99,medium,low,7,namesilo,,,29/09/2026 15:51
 e97b6d56-20a4-4a60-a0e6-501fafd7b23f,mlb.theatre,available,500.2,500.2,high,medium,3,cloudflare,,,29/09/2026 09:28
-7225c1bc-0369-4936-a11b-c9fe379214b3,health.theatre,available,538.98,620,high,medium,6,namecheap,,,30/09/2026 07:37
+7225c1bc-0369-4936-a11b-c9fe379214b3,health.theatre,available,509.99,529.99,high,medium,6,namesilo,,,02/10/2026 03:51
 28ca59ae-80e1-4b62-93ca-dcd36e1599bd,favourite.theatre,available,750,949.99,high,low,9,name.com,,,13/08/2026 18:17
 fdf65339-f1fb-4de9-8ea5-a2d98757bc4d,alonso.theatre,available,509.99,529.99,high,low,6,namesilo,,,18/09/2026 07:29
 df1ac570-2633-4c8b-a60a-1850207d2987,oriented.theatre,available,538.98,620,high,low,8,namecheap,,,26/09/2026 00:29
 10d72a43-8743-4bbc-9829-1534742d42b6,petrograd.theatre,available,509.99,529.99,medium,low,9,namesilo,,,29/09/2026 01:34
 df998f3e-7d01-4df5-955e-caa994434de0,beograd.theatre,available,509.99,529.99,high,low,7,namesilo,,,23/09/2026 05:12
 693a9036-0b90-494e-848d-92293f25601d,affair.theatre,available,509.99,529.99,high,low,6,namesilo,,,17/09/2026 13:59
+73438eed-8893-45d4-b536-0a029cb209b6,ooo.theatre,available,509.99,529.99,high,medium,3,namesilo,,,02/10/2026 03:15
 2c25fe00-ab53-45a0-8d92-dc2cda067898,insurgent.theatre,available,509.99,529.99,medium,low,9,namesilo,,,22/08/2026 07:44
 569c039a-5701-4b01-8d71-662074ec04a0,bum.theatre,available,509.99,529.99,medium,low,3,namesilo,,,09/08/2026 10:49
 7e5d3a1e-5621-47ff-96da-80d8214aa2d2,tallinn.theatre,available,465.95,500.18,medium,low,7,spaceship,,,29/09/2026 00:18
@@ -519,6 +547,7 @@ b88d4e23-4b37-4089-8cd1-c99b98b3c83c,kazakh.theatre,available,509.99,529.99,medi
 4e00eef4-9525-4b2d-aea8-f7623460218f,checker.theatre,available,509.99,529.99,high,low,7,namesilo,,,24/09/2026 13:59
 c4560d8b-ff04-4f1f-9eaf-4775e6c66d91,pardon.theatre,available,500.2,500.2,high,low,6,cloudflare,,,29/09/2026 18:25
 9dc54c45-20be-4c3a-83fc-2b1f5c1d9cc9,truthful.theatre,available,509.99,529.99,high,low,8,namesilo,,,11/09/2026 20:51
+20bfe676-f587-425c-baaa-952f895659e5,hardie.theatre,available,500.2,500.2,medium,low,6,cloudflare,,,01/10/2026 11:41
 86c5751a-b8d6-43d4-862f-0a9dba332e28,manifold.theatre,available,509.99,529.99,high,low,8,namesilo,,,24/08/2026 15:07
 4f1cb35f-5809-4509-a4b4-9ace3729b201,preserves.theatre,available,509.99,529.99,high,low,9,namesilo,,,30/09/2026 16:46
 6278d35d-d9ee-47ca-a4d0-bfee4e1069f5,rican.theatre,available,538.98,620,high,low,5,namecheap,,,25/09/2026 13:13
@@ -540,6 +569,7 @@ b04d39de-4d19-4745-936e-dc47babfda3f,johansson.theatre,available,535.22,535.22,m
 638cdb8d-d8d8-4c1a-a398-ff7549acc5c3,reich.theatre,available,465.95,500.18,high,low,5,spaceship,,,29/09/2026 02:01
 78d4424f-ce0b-4459-a838-0b1ffb1a2429,arrester.theatre,available,509.99,529.99,medium,low,8,namesilo,,,20/09/2026 09:09
 cf62ccfe-13ba-4863-a2c2-00393c53dea7,darkening.theatre,available,750,949.99,medium,low,9,name.com,,,13/08/2026 18:10
+8c9efcc6-3d91-4405-9021-16e5509db521,bolted.theatre,available,465.95,500.18,medium,low,6,spaceship,,,01/10/2026 16:08
 c2f86813-50a3-4eab-9110-ec5c301af3d5,styleless.theatre,available,509.99,529.99,low,low,9,namesilo,,,10/09/2026 23:15
 f8eb4977-76f1-4aff-b28a-e283564de01e,corporations.theatre,available,465.95,500.18,medium,low,12,spaceship,,,29/09/2026 11:23
 af581f48-0e88-454c-9932-c4af2a90dfd2,catapult.theatre,available,509.99,529.99,high,low,8,namesilo,,,20/09/2026 00:33
@@ -555,11 +585,11 @@ d35507a0-f915-45fc-825c-1573a14397cc,hangar.theatre,available,538.98,620,high,lo
 a524b369-9f0d-42a8-a6bd-ead23a4629e0,acceptance.theatre,available,509.99,529.99,high,low,10,namesilo,,,16/09/2026 22:01
 36c5b1cc-0c15-4e6b-8cff-6fcbfa5a67a0,snout.theatre,available,515.45,515.45,high,low,5,porkbun,,,30/09/2026 01:54
 02048f19-1d08-46ff-a76e-5164ba932d01,reprobate.theatre,available,509.99,529.99,medium,low,9,namesilo,,,14/08/2026 02:38
-6cb8d1ef-d8fa-4a1d-9f8c-9aeb3b27a102,wellness.theatre,available,509.99,529.99,high,medium,8,namesilo,,,28/09/2026 10:55
+6cb8d1ef-d8fa-4a1d-9f8c-9aeb3b27a102,wellness.theatre,available,465.95,500.18,high,medium,8,spaceship,,,01/10/2026 18:55
 068876d8-cd16-45d9-8be4-6a5d37c3d67b,actuarial.theatre,available,538.98,620,medium,low,9,namecheap,,,
 b74c89fe-9249-4282-aeeb-04e8ea76c5bc,bidens.theatre,available,535.22,535.22,medium,low,6,dynadot,,,29/09/2026 02:29
 3d3eb937-fe8b-4411-81cc-fb6a38693660,salacious.theatre,available,509.99,529.99,medium,low,9,namesilo,,,23/08/2026 00:40
-580394da-cd89-4b9c-8b63-09d64b9ff35f,underestimate.theatre,available,509.99,529.99,medium,low,13,namesilo,,,
+580394da-cd89-4b9c-8b63-09d64b9ff35f,underestimate.theatre,available,509.99,529.99,high,low,13,namesilo,,,01/10/2026 06:11
 0f04503f-8dd2-4c7c-b1b8-466c5a9eec5e,artillery.theatre,available,509.99,529.99,high,low,9,namesilo,,,20/09/2026 11:43
 2cdfd48f-c2c2-4224-89f9-752226d8d350,afp.theatre,available,509.99,529.99,high,low,3,namesilo,,,17/09/2026 15:12
 0b08a870-da1a-40a1-bb8a-2a4982fe19e1,needle.theatre,available,509.99,529.99,high,low,6,namesilo,,,28/09/2026 17:37
@@ -581,8 +611,10 @@ a1d50d8e-14db-4a2c-a01c-2a3a6712a703,pseudonym.theatre,available,509.99,529.99,h
 a95ff3b2-927d-4b26-bf38-b57b2cb95a20,celeriac.theatre,available,509.99,529.99,medium,low,8,namesilo,,,19/09/2026 17:33
 468a74bf-662f-44b9-aad9-817c70dd5041,debris.theatre,available,465.95,500.18,medium,low,6,spaceship,,,28/09/2026 18:54
 9c0a43c0-3240-4162-a3fd-9245cc632c84,sprouted.theatre,available,509.99,529.99,medium,low,8,namesilo,,,10/09/2026 16:55
+f9dc068a-308d-4779-b366-4626abc4a9aa,shrunk.theatre,available,500.2,500.2,medium,low,6,cloudflare,,,01/10/2026 04:31
 33036dc3-3ebe-4e2d-9f34-935361dcb8cf,breed.theatre,available,509.99,529.99,high,low,5,namesilo,,,27/09/2026 11:59
 9dc392af-f93a-4299-869a-5131e6032c65,prompter.theatre,available,509.99,529.99,high,low,8,namesilo,,,21/09/2026 06:13
+6f618cd4-cf4e-406e-9b8b-696dca445d41,blooms.theatre,available,509.99,529.99,medium,low,6,namesilo,,,02/10/2026 03:32
 ac56f61c-88a3-4bf4-a668-2882ac3f45d1,fluorescence.theatre,available,465.95,500.18,medium,low,12,spaceship,,,27/09/2026 23:02
 41646e2d-36b2-4f82-91e1-789ccb681cd0,curly.theatre,available,509.99,529.99,high,low,5,namesilo,,,13/08/2026 11:23
 3d1f1b28-1794-4f29-a4bd-51a46ae1e773,spoils.theatre,available,509.99,529.99,high,low,6,namesilo,,,30/09/2026 06:19
@@ -635,6 +667,7 @@ ce0faead-5a0c-4e73-aa24-a873fd222c18,colombian.theatre,available,509.99,529.99,h
 8b3049fd-1711-4478-851d-967ea6ede22c,approximate.theatre,available,465.95,500.18,high,low,11,spaceship,,,29/09/2026 08:31
 dca5fb7f-c6c6-47fb-be60-38f934f59cf6,melissa.theatre,available,538.98,620,high,low,7,namecheap,,,27/09/2026 04:11
 d2f474e2-4033-44db-ba58-8e1b02927f7f,audubon.theatre,available,509.99,529.99,medium,low,7,namesilo,,,21/09/2026 03:14
+660a38f1-9938-4a35-bbf3-8552ddd9e273,nts.theatre,available,535.22,535.22,high,low,3,dynadot,,,01/10/2026 08:33
 8f378786-d465-474b-b657-3e83de96be6e,hobart.theatre,available,509.99,529.99,high,low,6,namesilo,,,25/09/2026 07:24
 d1e1e673-3297-4d0a-9d42-906a2f0adead,buggy.theatre,available,509.99,529.99,high,low,5,namesilo,,,22/09/2026 08:13
 fb706fd6-afa3-4230-8952-3783ffee9c1c,stamina.theatre,available,509.99,529.99,high,low,7,namesilo,,,30/09/2026 18:50
@@ -663,6 +696,7 @@ db83e084-ec5a-4e81-86a5-af9622e610db,behold.theatre,available,509.99,529.99,high
 565fe443-9a29-4b25-a9f7-6d911a44e4c0,correspond.theatre,available,538.98,620,high,low,10,namecheap,,,29/09/2026 19:02
 c04bf68d-01da-4d3e-824c-db28fe541e2c,often.theatre,available,509.99,529.99,high,low,5,namesilo,,,28/09/2026 14:58
 a19b0e81-6c70-40d1-9c60-2c6a51962125,deviate.theatre,available,509.99,529.99,high,low,7,namesilo,,,
+9c4dc4c4-15a6-498c-b89b-966860cbd466,formations.theatre,available,509.99,529.99,medium,low,10,namesilo,,,01/10/2026 15:37
 5f6dc10b-36c7-4d4c-a531-22bc297f6c51,zealous.theatre,available,509.99,529.99,high,low,7,namesilo,,,13/09/2026 15:10
 0a439fa5-8b5c-42a4-85a9-9ec01c0c964a,bazooka.theatre,available,538.98,620,high,low,7,namecheap,,,22/09/2026 18:25
 a28f1a04-2fc9-48af-8678-a85b25a7956b,falling.theatre,available,509.99,529.99,high,low,7,namesilo,,,14/08/2026 19:49
@@ -718,16 +752,17 @@ f194843d-5bdf-4d1c-8301-0c6e23265293,examples.theatre,available,515.45,515.45,me
 35c928ec-1dd3-40c1-a6bd-d531215182bb,roarer.theatre,available,509.99,529.99,medium,low,6,namesilo,,,22/09/2026 16:57
 ae57daa6-7a4e-4384-997a-7e5dc8e873fa,unstuck.theatre,available,509.99,529.99,medium,low,7,namesilo,,,12/09/2026 20:40
 54b69a92-bdc9-4f86-ad73-1cb5307fe419,armenian.theatre,available,509.99,529.99,high,low,8,namesilo,,,06/08/2026 19:39
-451b4ff9-312f-4376-abea-6edd7226db5e,theory.theatre,available,465.95,500.18,high,low,6,spaceship,,,28/09/2026 12:34
+451b4ff9-312f-4376-abea-6edd7226db5e,theory.theatre,available,465.95,500.18,high,low,6,spaceship,,,01/10/2026 20:36
 160c34f2-7e97-418f-a605-681f2674cdf4,biome.theatre,available,538.98,620,high,low,5,namecheap,,,23/09/2026 18:30
 3bf3773a-18f6-4164-b8d1-622260240a09,section.theatre,available,509.99,529.99,high,low,7,namesilo,,,08/09/2026 06:07
 d04b21f0-33c8-4e09-b59e-34a2aaafba04,moser.theatre,available,500.2,500.2,medium,low,5,cloudflare,,,29/09/2026 03:32
 a637ad9e-4a73-4699-a3ab-145e761726fe,margins.theatre,available,509.99,529.99,medium,low,7,namesilo,,,30/09/2026 06:12
 6faf6400-621d-4a31-96a7-31d24e8dc38e,horror.theatre,available,500.2,500.2,high,low,6,cloudflare,,,27/09/2026 14:08
-6268021b-00a1-468e-83e9-3cf21f830c1b,designers.theatre,available,509.99,529.99,high,low,9,namesilo,,,29/09/2026 12:09
+6268021b-00a1-468e-83e9-3cf21f830c1b,designers.theatre,available,500.2,500.2,high,low,9,cloudflare,,,01/10/2026 18:23
 dfdb221c-e0bd-4c51-83ae-5615d76c3076,intellectuals.theatre,available,500.2,500.2,medium,low,13,cloudflare,,,01/10/2026 00:59
 f4443c3e-3449-45b3-a3fa-c7b7952f7d30,initials.theatre,available,538.98,620,medium,low,8,namecheap,,,28/09/2026 08:37
 687c874d-cd80-4087-b5d8-00657c726197,antido.theatre,available,509.99,529.99,medium,low,6,namesilo,,,19/09/2026 14:17
+aef496fa-65b5-464b-8d85-e47d503e194b,cherries.theatre,available,538.98,620,high,low,8,namecheap,,,01/10/2026 17:14
 bfa9cd4f-5e18-44db-9002-7616c7b2c48a,adulterate.theatre,available,509.99,529.99,medium,low,10,namesilo,,,
 f2f51af9-1d9d-4783-bd3e-f7411867c10a,institution.theatre,available,509.99,529.99,high,low,11,namesilo,,,27/09/2026 08:25
 d18cc310-db79-4a4a-a14e-2026756dbecc,thiamine.theatre,available,750,949.99,medium,low,8,name.com,,,19/09/2026 05:38
@@ -735,11 +770,12 @@ b37b09a5-c654-4e95-bcda-8a47c5b97eb6,parody.theatre,available,509.99,529.99,high
 e8698916-5d6c-4adf-986c-d7d7497a9a76,church.theatre,available,465.95,500.18,high,medium,6,spaceship,,,29/09/2026 09:07
 51cd00ae-03a6-4e15-9721-72ea224b09d2,subclass.theatre,available,509.99,529.99,medium,low,8,namesilo,,,30/09/2026 11:06
 ff3d9f54-0f87-4d2a-8a64-7db4bb545e14,bosses.theatre,available,509.99,529.99,high,low,6,namesilo,,,18/09/2026 05:55
+6280b7aa-210d-4a51-9dbe-a583590ac14c,multilayer.theatre,available,509.99,529.99,medium,low,10,namesilo,,,02/10/2026 01:55
 ac8d8a60-5d02-4fe7-ad01-aa5a16ab04c2,grayson.theatre,available,509.99,529.99,medium,low,7,namesilo,,,28/09/2026 00:47
 14bd417c-0706-486e-b2d6-7732ea91ac9e,adjunct.theatre,available,509.99,529.99,high,low,7,namesilo,,,
 3651e71e-ffe9-4f72-a4b1-17bc7346fd56,wooden.theatre,available,500.2,500.2,high,low,6,cloudflare,,,28/09/2026 10:45
 221d2708-ce5a-4f63-97fd-1f1c7b2208dc,harmsworth.theatre,available,509.99,529.99,high,low,10,namesilo,,,18/09/2026 06:27
-d0f9781a-3521-497e-8289-f69bccb01d27,occurring.theatre,available,509.99,529.99,high,low,9,namesilo,,,
+d0f9781a-3521-497e-8289-f69bccb01d27,occurring.theatre,available,538.98,620,high,low,9,namecheap,,,01/10/2026 19:44
 0c6b2df2-6e79-4d3c-8b82-516ee8baff74,familiar.theatre,available,509.99,529.99,high,low,8,namesilo,,,24/09/2026 16:30
 2e320e9a-19d5-4107-9c57-041b22351e12,rutherford.theatre,available,538.98,620,medium,low,10,namecheap,,,01/10/2026 01:41
 edc040ce-ab32-432c-a4f7-52e8e8d7fd20,modulated.theatre,available,509.99,529.99,medium,low,9,namesilo,,,25/08/2026 03:19
@@ -756,8 +792,10 @@ edc040ce-ab32-432c-a4f7-52e8e8d7fd20,modulated.theatre,available,509.99,529.99,m
 00446bc1-8a0f-4b30-9b1a-3cd2d373940d,olympics.theatre,available,509.99,529.99,high,low,8,namesilo,,,30/09/2026 06:06
 388aa2ff-bf63-400f-b697-56635128b23a,aga.theatre,available,509.99,529.99,high,low,3,namesilo,,,17/09/2026 15:58
 c1d93b85-9f4b-4edb-b2da-2225679f78e4,thinker.theatre,available,509.99,529.99,high,low,7,namesilo,,,30/09/2026 01:09
+8e272025-eaab-4f08-b7ea-f0fefeaca025,meshes.theatre,available,515.45,515.45,low,low,6,porkbun,,,01/10/2026 18:22
 d15038c0-e4ec-42eb-aa46-353dc7458077,millionth.theatre,available,509.99,529.99,high,low,9,namesilo,,,24/08/2026 23:25
 f31b04fc-89b8-4dc1-8459-3760d2a367b4,jacobson.theatre,available,509.99,529.99,high,low,8,namesilo,,,28/09/2026 04:07
+1ca576d3-2204-459e-ab13-582e4aeebea0,infante.theatre,available,535.22,535.22,medium,low,7,dynadot,,,01/10/2026 06:11
 a168f6f0-2f9a-419f-9a31-22a80c40f761,creditors.theatre,available,509.99,529.99,medium,low,9,namesilo,,,20/09/2026 15:31
 61eb7894-753a-4bd9-806a-d812a4c45d85,fracture.theatre,available,899.99,999.99,high,low,8,godaddy,,,28/09/2026 01:53
 41ed5e9a-80be-41a4-8a29-4b7375802a7e,township.theatre,available,465.95,500.18,high,low,8,spaceship,,,30/09/2026 19:01
@@ -772,7 +810,7 @@ e880e98c-cd5a-4aab-8662-cd5a9d01ba08,yogic.theatre,available,509.99,529.99,mediu
 b24666f7-bbe4-4ef9-9c4f-7343d2c26498,bagnio.theatre,available,538.98,620,medium,low,6,namecheap,,,21/09/2026 18:19
 95365e0a-0df3-4eab-9d6e-93dbd7c50c2d,multistory.theatre,available,509.99,529.99,medium,low,10,namesilo,,,03/09/2026 10:56
 fb730c64-b69b-4105-af20-ff0fdbb1f5d9,enhanced.theatre,available,509.99,529.99,high,low,8,namesilo,,,17/08/2026 08:25
-3c42f386-382c-4722-a8bf-1b2590ba9ebd,retail.theatre,available,538.98,620,high,low,6,namecheap,,,28/09/2026 06:47
+3c42f386-382c-4722-a8bf-1b2590ba9ebd,retail.theatre,available,500.2,500.2,high,low,6,cloudflare,,,01/10/2026 15:26
 10c8f97e-64a1-4586-94d0-accf447bb9a6,polyester.theatre,available,500.2,500.2,high,low,9,cloudflare,,,30/09/2026 07:07
 8160496b-74de-4d0d-a404-d5b6e229c37a,berber.theatre,available,509.99,529.99,high,low,6,namesilo,,,23/09/2026 09:07
 2c7173c2-11aa-499e-80a7-1c6ad1f1d925,disputed.theatre,available,509.99,529.99,medium,low,8,namesilo,,,14/08/2026 12:12
@@ -798,6 +836,7 @@ ba73cc06-b396-41ef-b3fa-e3bf23eaa23a,clarke.theatre,available,500.2,500.2,high,m
 1cd0576c-e831-437f-b055-731f5fb85e8f,radiantly.theatre,available,509.99,529.99,medium,low,9,namesilo,,,15/09/2026 22:18
 6427ac2d-424b-4e2e-801b-0dc4c2978e24,delusion.theatre,available,509.99,529.99,high,low,8,namesilo,,,24/09/2026 21:45
 b60e6abe-5ce7-499d-87e9-90230f4f488c,treed.theatre,available,509.99,529.99,medium,low,5,namesilo,,,07/08/2026 11:13
+299313a6-9ba3-489d-9bc5-b4e4dc73671e,gentry.theatre,available,465.95,500.18,high,low,6,spaceship,,,01/10/2026 19:44
 709b2122-b16a-4161-a017-3c82941f113a,theropod.theatre,available,538.98,620,medium,low,8,namecheap,,,23/09/2026 19:39
 6c52bcb7-97d3-4bf0-ad0c-b7070d71ab44,aeolus.theatre,available,509.99,529.99,medium,low,6,namesilo,,,17/09/2026 12:36
 ea6d152a-a7d0-4f1d-a805-f6a6e558b615,anaglyphic.theatre,available,509.99,529.99,medium,low,10,namesilo,,,
@@ -820,6 +859,7 @@ b6888726-a583-4a63-890a-64c751a776a9,mental.theatre,available,509.99,529.99,high
 e6e98bc1-c14c-4350-943b-52c31a4dce9f,noticing.theatre,available,500.2,500.2,high,low,8,cloudflare,,,29/09/2026 08:45
 09677ca9-4ce9-459b-b8e5-84065da122e4,medallion.theatre,available,509.99,529.99,high,low,9,namesilo,,,30/09/2026 10:23
 f16ec3f3-e172-4ede-a8be-369a7ba37a4c,made.theatre,available,509.99,529.99,high,medium,4,namesilo,,,25/09/2026 16:01
+877f89a4-c6a9-46d8-94a0-686d501b39f8,questionnaire.theatre,available,509.99,529.99,high,low,13,namesilo,,,01/10/2026 04:57
 1edc8759-17af-4e07-961f-ff9f545f9a7a,saves.theatre,available,509.99,529.99,medium,low,5,namesilo,,,28/09/2026 09:04
 109dc4d1-d17b-40fb-a3df-03d22ce691ec,pintail.theatre,available,509.99,529.99,medium,low,7,namesilo,,,19/09/2026 02:52
 b508f9af-f208-422b-9d4d-8c8b9c1c8565,moments.theatre,available,538.98,620,medium,low,7,namecheap,,,25/09/2026 20:25
@@ -836,6 +876,7 @@ b53cf9b0-e107-4f47-b2fe-ebe26d52a6c9,scholar.theatre,available,509.99,529.99,hig
 29c1112d-3926-4f6d-a688-0f15760430bc,offstage.theatre,available,509.99,529.99,high,low,8,namesilo,,,08/08/2026 06:14
 cad1638b-c2fe-4492-80eb-6fa2f04f47c8,blackamoor.theatre,available,509.99,529.99,medium,low,10,namesilo,,,03/09/2026 15:12
 9a781fd1-6000-43d5-a131-f50d5aa00045,servers.theatre,available,500.2,500.2,high,low,7,cloudflare,,,29/09/2026 17:57
+29b0309b-0009-487e-985a-0d1023d00b45,smuggle.theatre,available,538.98,620,medium,low,7,namecheap,,,01/10/2026 22:13
 144ae7bf-64f0-4e6e-9d5d-eb129e6e3fce,freakish.theatre,available,509.99,529.99,high,low,8,namesilo,,,10/08/2026 09:56
 af815cba-355f-4d59-aec0-d43bd91b1d0c,sunshine.theatre,available,750,949.99,high,low,8,name.com,,,27/09/2026 02:06
 e8ec0c63-0ffb-4489-b0d5-719e2426b08a,aeolis.theatre,available,538.98,620,medium,low,6,namecheap,,,17/09/2026 12:32
@@ -850,6 +891,7 @@ c73fdb26-a697-46ba-a45d-fbaa1c7df60d,intramural.theatre,available,509.99,529.99,
 61098793-b82d-4af6-ad3b-f3b3bc77cb33,oranges.theatre,available,465.95,500.18,medium,low,7,spaceship,,,29/09/2026 23:38
 a4656a5c-ca3f-45f2-9edd-6e8a9a5c38be,lowercase.theatre,available,538.98,620,high,low,9,namecheap,,,25/09/2026 15:23
 fac6d925-31ea-49a8-9585-89fe30adf6ef,phrase.theatre,available,509.99,529.99,high,low,6,namesilo,,,29/09/2026 23:31
+6f3978bb-3f2d-443c-97ad-4a0ec9dc7dd2,huff.theatre,available,538.98,620,medium,low,4,namecheap,,,01/10/2026 20:00
 3c75ccd7-8b35-41ec-9dab-c4ade8f6d8a3,yeti.theatre,available,538.98,620,high,high,4,namecheap,,,16/09/2026 16:30
 b144c9ef-f923-45e1-b07e-9dc4d852fc26,abvolt.theatre,available,538.98,620,medium,low,6,namecheap,,,16/09/2026 19:39
 c3028a1d-644b-44b8-a547-c8ca60cdfde0,pausanias.theatre,available,535.22,535.22,medium,low,9,dynadot,,,30/09/2026 21:56
@@ -869,6 +911,7 @@ f39da318-9271-4db0-9dc7-92d6d7fee7d0,needles.theatre,available,465.95,500.18,hig
 1cdc7a0d-a5da-44fa-91c0-3e96fbd61de3,ooze.theatre,available,509.99,529.99,high,low,4,namesilo,,,04/09/2026 15:40
 017b33de-7f38-44ff-b4b0-8cc0b0017806,blastocyst.theatre,available,509.99,529.99,medium,low,10,namesilo,,,24/09/2026 04:28
 a345b7ed-2529-4724-ab59-dcb0702cabe5,literal.theatre,available,509.99,529.99,high,low,7,namesilo,,,25/09/2026 13:58
+04a7a0ce-515c-43a6-88cf-c0ac450f0721,leaps.theatre,available,509.99,529.99,medium,low,5,namesilo,,,02/10/2026 02:47
 96109ec4-42a0-4f44-a1b3-084025f3ac6a,revery.theatre,available,509.99,529.99,high,low,6,namesilo,,,17/09/2026 21:59
 089805b2-7d81-4ee2-af5d-654115b098c8,saute.theatre,available,509.99,529.99,high,low,5,namesilo,,,09/09/2026 22:00
 a1fbd342-0698-44a9-8dce-f14e724157a2,doncaster.theatre,available,515.45,515.45,high,low,9,porkbun,,,29/09/2026 23:47
@@ -876,17 +919,20 @@ bb753a64-3b55-4c49-a03b-96cfe728be8d,anonymous.theatre,available,509.99,529.99,h
 54626ea1-8188-4332-a929-abab1f0c44b1,assessable.theatre,available,509.99,529.99,medium,low,10,namesilo,,,07/08/2026 06:04
 39aa0f13-0d0d-48a7-a754-72cef46e1aba,statuesque.theatre,available,509.99,529.99,high,low,10,namesilo,,,22/08/2026 14:32
 6c0dfc99-8ec3-400c-ab71-a3c10e89e2ab,indiscreet.theatre,available,509.99,529.99,medium,low,10,namesilo,,,22/08/2026 03:07
+1cb18154-ff37-4f8b-a88d-3f3f6609cd72,scrambling.theatre,available,509.99,529.99,medium,low,10,namesilo,,,01/10/2026 23:12
 d9218899-af90-4169-b532-61511ad8ae64,whitish.theatre,available,509.99,529.99,medium,low,7,namesilo,,,24/08/2026 23:06
 98ae25ff-5dc7-4f65-878c-8f9f89779089,fact.theatre,available,465.95,500.18,high,low,4,spaceship,,,29/09/2026 18:51
 c793aadb-d472-4da1-b15e-5839dab4e1e1,descending.theatre,available,465.95,500.18,medium,low,10,spaceship,,,28/09/2026 21:15
 248b4072-116b-4497-be83-52a9bcc8e4ef,larkin.theatre,available,509.99,529.99,high,low,6,namesilo,,,27/09/2026 23:26
 c4da7e45-ec0d-4ba6-b7b7-ff41b1071f99,compressor.theatre,available,465.95,500.18,high,low,10,spaceship,,,30/09/2026 16:45
 8cd0aaef-f388-4f0f-b15d-c5dc98f7af65,hysteria.theatre,available,538.98,620,high,low,8,namecheap,,,24/09/2026 21:43
+875768d6-d6e1-4fb1-b623-c5df2168e321,matty.theatre,available,465.95,500.18,medium,low,5,spaceship,,,01/10/2026 23:18
 c1c9e85a-1d2c-443f-b348-76716a7e750b,geddes.theatre,available,509.99,529.99,medium,low,6,namesilo,,,29/09/2026 15:03
 03f0eb34-0b3f-4a89-ac39-8314941cca63,uncensored.theatre,available,509.99,529.99,high,low,10,namesilo,,,12/09/2026 04:53
 73c3da19-b2d6-4b92-9997-3b8262bf6d6e,tamanoir.theatre,available,538.98,620,medium,low,8,namecheap,,,19/09/2026 12:16
 70e9b802-f11a-42fa-aa5b-0faaf7c5839a,americans.theatre,available,509.99,529.99,medium,low,9,namesilo,,,08/09/2026 06:41
 ed6ad78b-fc9f-4d54-8d82-d1530d1cf3e4,chi.theatre,available,465.95,500.18,high,low,3,spaceship,,,30/09/2026 09:06
+ef6f32f5-8310-4ecc-a20f-2bb410521e8f,mobilization.theatre,available,509.99,529.99,high,low,12,namesilo,,,02/10/2026 01:20
 e1e20752-8071-444f-8651-382f64e0cabf,bandstand.theatre,available,538.98,620,high,low,9,namecheap,,,22/09/2026 01:32
 71ef225c-4a31-46ca-86a9-7348bfb17b6b,trolley.theatre,available,509.99,529.99,high,low,7,namesilo,,,29/09/2026 14:00
 2fe0bbf2-e639-4f8e-9aee-d96f97ab0f55,passenger.theatre,available,509.99,529.99,high,low,9,namesilo,,,27/09/2026 04:56
@@ -910,6 +956,7 @@ f441d6b3-e3a6-41a3-a7d1-fead98fa3d6a,abscissa.theatre,available,509.99,529.99,me
 05904741-d1cc-4ce2-b7d1-d5eb6b4c9467,lammas.theatre,available,509.99,529.99,medium,low,6,namesilo,,,21/09/2026 03:43
 cc0592b1-ecae-42fd-a7d7-474fc357e99c,preparing.theatre,available,509.99,529.99,high,low,9,namesilo,,,27/09/2026 06:40
 e5f19a1e-510f-41ae-a59a-a341e3c61408,patriotic.theatre,available,509.99,529.99,high,low,9,namesilo,,,27/09/2026 03:06
+bad77456-fc1f-44b7-8abe-b50330cc5200,shoreham.theatre,available,509.99,529.99,medium,low,8,namesilo,,,02/10/2026 01:12
 6a89be55-6359-460d-ad07-644ac08e0d55,earrings.theatre,available,500.2,500.2,medium,low,8,cloudflare,,,30/09/2026 00:39
 bf5d5ee6-c1b9-4902-9327-e7ccbc3ae080,underlying.theatre,available,509.99,529.99,high,low,10,namesilo,,,21/08/2026 22:41
 2665394f-8c66-4f7a-bae6-27884fc8c87e,debonaire.theatre,available,509.99,529.99,medium,low,9,namesilo,,,12/08/2026 05:59
@@ -952,50 +999,3 @@ d6fa0822-963f-4d81-bdb9-a8eebc9c98fc,upriver.theatre,available,509.99,529.99,med
 78953318-f5bb-4071-b942-e3851ddbf98a,rosen.theatre,available,509.99,529.99,medium,low,5,namesilo,,,26/09/2026 03:15
 daf1488e-b7dd-4da6-8191-92e7b7188c3b,janis.theatre,available,509.99,529.99,high,low,5,namesilo,,,29/09/2026 09:40
 6af5ff28-b025-41b1-88b9-a8d89a98bb0d,pennsylvania.theatre,available,538.98,620,high,low,12,namecheap,,,28/09/2026 11:48
-a6edf853-b9c1-4bb6-9b10-824a35bd732c,sere.theatre,available,538.98,620,medium,low,4,namecheap,,,14/08/2026 19:03
-4cdd1b4c-d8b7-4d7f-8064-e627b12d18db,obvious.theatre,available,509.99,529.99,high,low,7,namesilo,,,25/09/2026 23:50
-609198ac-0623-48b4-9944-bdeb4363cb42,espn.theatre,available,500.2,500.2,high,low,4,cloudflare,,,28/09/2026 08:02
-445da739-3819-4d70-ac60-8db4ff37082f,sway.theatre,available,538.98,620,high,low,4,namecheap,,,24/09/2026 12:53
-e275440c-05cc-4584-bf36-31225d683762,sweat.theatre,available,465.95,500.18,high,low,5,spaceship,,,29/09/2026 17:49
-72adea73-cb3c-4fc2-9e02-e091fbda5537,bribable.theatre,available,509.99,529.99,medium,low,8,namesilo,,,11/08/2026 03:42
-ec20a4da-569b-4481-bb9e-e78eaaba597d,workshop.theatre,available,465.95,500.18,high,low,8,spaceship,,,28/09/2026 11:07
-ed8dbedb-dbf9-4ac3-85f2-4181d2b8e79e,likable.theatre,available,509.99,529.99,high,low,7,namesilo,,,23/08/2026 06:14
-208ecf15-37ea-4348-8bb8-5f875077c515,starting.theatre,available,509.99,529.99,high,low,8,namesilo,,,28/09/2026 00:44
-91043df2-b9e3-48b1-b5c6-c6effcf32f67,chattel.theatre,available,509.99,529.99,medium,low,7,namesilo,,,25/08/2026 09:00
-1e24a3b5-7432-4749-9ed9-df42aa898864,absolute.theatre,available,509.99,529.99,high,low,8,namesilo,,,21/09/2026 14:42
-b144032d-2cb9-4772-b614-bebd3fcb7d09,tanned.theatre,available,509.99,529.99,high,low,6,namesilo,,,11/08/2026 05:50
-cdcfb438-19a9-4a9e-862d-ba80042158f9,lachrymose.theatre,available,509.99,529.99,medium,low,10,namesilo,,,14/08/2026 15:34
-bd76dafd-af6c-4590-adfe-e74f5be3c3ac,pod.theatre,available,509.99,529.99,high,medium,3,namesilo,,,12/08/2026 15:05
-f2102c03-73b0-4129-9980-dfe0830ce2f3,usmc.theatre,available,465.95,500.18,medium,low,4,spaceship,,,30/09/2026 17:59
-95356075-511a-47a6-9311-78ab374b2817,helpless.theatre,available,509.99,529.99,medium,low,8,namesilo,,,21/08/2026 06:38
-09b526ae-6b01-4575-ac37-daa9b223442e,checkroom.theatre,available,509.99,529.99,medium,low,9,namesilo,,,24/09/2026 14:04
-26c8fcb6-569a-43b5-9772-5b6ac7ca7047,palms.theatre,available,465.95,500.18,high,low,5,spaceship,,,28/09/2026 18:00
-f4a0629c-b191-48f2-9209-17bcd60cfbcd,impose.theatre,available,515.45,515.45,high,low,6,porkbun,,,28/09/2026 10:13
-e64011e1-8219-41d6-8812-c639be1cbfc2,triplet.theatre,available,509.99,529.99,medium,low,7,namesilo,,,
-e5aba18e-74f6-4c3b-b270-7b42dc6bc21b,minimum.theatre,available,538.98,620,high,low,7,namecheap,,,25/09/2026 20:24
-078ca881-14e9-4d2d-9f69-913bafbee412,mikhail.theatre,available,538.98,620,medium,low,7,namecheap,,,26/09/2026 03:33
-6d7f55ad-0be8-40dc-a2bb-d978c2ba7b0c,seventh.theatre,available,509.99,529.99,high,low,7,namesilo,,,
-6bd9aa84-031a-46da-ae70-0e69136b5632,albers.theatre,available,509.99,529.99,high,low,6,namesilo,,,18/09/2026 02:34
-42fe8229-25f7-41af-b712-93fdee209a80,valery.theatre,available,509.99,529.99,medium,low,6,namesilo,,,30/09/2026 13:51
-dae1d5b9-8207-41c5-be88-16f76aa64b1a,brand.theatre,available,465.95,500.18,high,medium,5,spaceship,,,28/09/2026 09:07
-e02a7af6-6e4b-4036-8208-1aa1e79ff39d,mouthcare.theatre,available,620,,medium,low,9,namecheap,,,
-b55b423a-8ab5-4faf-aef7-3168c18cc0e1,husky.theatre,available,509.99,529.99,high,medium,5,namesilo,,,09/08/2026 07:59
-39f5fa8b-0ae6-44a3-873c-07df7982d845,accord.theatre,available,509.99,529.99,high,low,6,namesilo,,,16/09/2026 22:54
-22cd4b34-d7cb-48f1-aa28-14728c593cef,pressures.theatre,available,538.98,620,medium,low,9,namecheap,,,30/09/2026 00:28
-35359d3c-31b5-44d8-9526-46f121b90a55,rescued.theatre,available,509.99,529.99,high,low,7,namesilo,,,09/09/2026 11:35
-945f5c57-1b3a-4247-95d5-2542790104e7,commodore.theatre,available,515.45,515.45,high,low,9,porkbun,,,29/09/2026 11:55
-70b6c774-fa9f-4b45-843a-1693dc285c3f,declining.theatre,available,620,,medium,low,9,namecheap,,,
-e51baacb-ccc9-4b88-82c5-62e2f6fb6627,unisexual.theatre,available,509.99,529.99,medium,low,9,namesilo,,,12/09/2026 13:54
-a33b2739-6604-48e0-b56a-14f3b5e72048,decrease.theatre,available,509.99,529.99,medium,low,8,namesilo,,,29/09/2026 00:39
-318ef9d2-406e-4d78-ae63-f7edb05b911b,waits.theatre,available,465.95,500.18,medium,low,5,spaceship,,,28/09/2026 11:43
-9c61a09b-6555-4ee1-a04f-99b9bcb24f55,hierarchic.theatre,available,509.99,529.99,medium,low,10,namesilo,,,21/08/2026 08:20
-45de63e0-7c9f-4e25-b460-4d175c789a81,scum.theatre,available,538.98,620,high,low,4,namecheap,,,29/09/2026 08:02
-00cb4d1b-390b-465b-8ce0-7e95e8246aed,lowlife.theatre,available,509.99,529.99,medium,low,7,namesilo,,,11/08/2026 09:22
-1a2fda5d-48b5-450f-8d28-cec735d4370b,copying.theatre,available,538.98,620,high,low,7,namecheap,,,30/09/2026 01:06
-b09cca06-3340-42e6-8e83-0c2b974ce312,explosions.theatre,available,535.22,535.22,low,low,10,dynadot,,,28/09/2026 23:40
-660f51a1-e165-4d1f-97b2-ded697e574a3,celebrate.theatre,available,509.99,529.99,high,low,9,namesilo,,,25/09/2026 05:59
-cc491cee-ba7f-44e7-96d1-c79e604411e1,cheeks.theatre,available,535.22,535.22,medium,low,6,dynadot,,,29/09/2026 10:13
-ad51912c-a965-45eb-8043-a970419bb74d,allophone.theatre,available,509.99,529.99,medium,low,9,namesilo,,,18/09/2026 12:02
-28734ce3-57e7-48d9-8346-7c5e48526ad2,sound.theatre,available,509.99,529.99,high,medium,5,namesilo,,,25/09/2026 13:31
-efaf4784-5251-445e-9521-f90e7a9a0151,cajole.theatre,available,509.99,529.99,medium,low,6,namesilo,,,24/09/2026 04:10
-49e78660-6c9e-4007-a1fc-4d32d6049be5,tess.theatre,available,538.98,620,medium,low,4,namecheap,,,28/09/2026 21:56
