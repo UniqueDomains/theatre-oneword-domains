@@ -1,10 +1,10 @@
-# Available .THEATRE One-Word Domains (34,704)
+# Available .THEATRE One-Word Domains (37,105)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-34%2C704%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-37%2C105%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .theatre one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **34,704 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **37,105 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 34,704 domains · **Median ask:** $513.81 · **High-demand under $2,500:** 244
+**Public extract:** 1,000 rows · **Live catalog:** 37,105 domains · **Median ask:** $512.63 · **High-demand under $2,500:** 257
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/theatre`
 **Best for:** founders, investors, studios
 
@@ -71,19 +71,19 @@ print(df.head())
 | ain.theatre | available | $509.99   | $529.99       | high           | low    | 3      | namesilo   |
 | bum.theatre | available | $509.99   | $529.99       | medium         | low    | 3      | namesilo   |
 | bun.theatre | available | $509.99   | $529.99       | high           | low    | 3      | namesilo   |
-| cfr.theatre | available | $500.20   | $500.20       | medium         | low    | 3      | cloudflare |
+| cel.theatre | available | $509.99   | $529.99       | high           | low    | 3      | namesilo   |
 | chi.theatre | available | $465.95   | $500.18       | high           | low    | 3      | spaceship  |
+| cnr.theatre | available | $465.95   | $500.18       | high           | low    | 3      | spaceship  |
 | cod.theatre | available | $538.98   | $620          | high           | low    | 3      | namecheap  |
 | css.theatre | available | $509.99   | $529.99       | high           | medium | 3      | namesilo   |
 | dla.theatre | available | $509.99   | $529.99       | high           | low    | 3      | namesilo   |
 | don.theatre | available | $509.99   | $529.99       | high           | low    | 3      | namesilo   |
+| dst.theatre | available | $465.95   | $500.18       | high           | low    | 3      | spaceship  |
+| goh.theatre | available | $500.20   | $500.20       | medium         | low    | 3      | cloudflare |
 | inn.theatre | available | $538.98   | $620          | high           | low    | 3      | namecheap  |
 | ire.theatre | available | $509.99   | $529.99       | medium         | low    | 3      | namesilo   |
 | ito.theatre | available | $538.98   | $620          | medium         | low    | 3      | namecheap  |
 | ivo.theatre | available | $535.22   | $535.22       | high           | low    | 3      | dynadot    |
-| lds.theatre | available | $535.22   | $535.22       | high           | low    | 3      | dynadot    |
-| lol.theatre | available | $515.45   | $515.45       | high           | low    | 3      | porkbun    |
-| map.theatre | available | $465.95   | $500.18       | high           | medium | 3      | spaceship  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 34,704 live domains                        |
+| 1,000-row public sample | 37,105 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 244 high-demand names under $2,500         |
+| Basic exported fields   | 257 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .THEATRE One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .THEATRE One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
